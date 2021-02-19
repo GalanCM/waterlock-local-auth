@@ -2,6 +2,7 @@
   "name": "waterlock-local-auth",
   "version": "v0.1.2-rc1",
   "description": "local authentication for waterlock",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "make test"
