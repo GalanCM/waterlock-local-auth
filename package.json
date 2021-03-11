@@ -18,21 +18,21 @@
     "sails"
   ],
   "devDependencies": {
-    "mocha": "*",
-    "should": "*",
-    "proxyquire": "*",
     "coveralls": "*",
     "istanbul": "*",
-    "jshint": "*"
+    "jshint": "*",
+    "mocha": "^8.3.1",
+    "proxyquire": "*",
+    "should": "*"
   },
   "dependencies": {
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "jwt-simple": "^0.5.6",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "node-uuid": "~1.4.2",
-    "nodemailer": "^6.4.18",
-    "pug": "^3.0.0"
+    "nodemailer": "^6.5.0",
+    "pug": "^3.0.2"
   },
   "author": "David Rivera <david.r.rivera193@gmail.com>",
   "contributors": [
